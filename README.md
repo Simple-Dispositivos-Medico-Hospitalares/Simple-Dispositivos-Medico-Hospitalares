@@ -1,4 +1,4 @@
-# B-Safe
+# Simple Soluções Digitais
 
 Uma união entre Tecnologia, Inovação e Simplicidade. Adaptada ao contexto de heath solutions.
 
